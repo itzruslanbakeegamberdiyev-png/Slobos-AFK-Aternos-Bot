@@ -6,8 +6,8 @@
     "type": "offline"
   },
   "server": {
-    "ip": "slobtest1.aternos.me",
-    "port": 27586,
+    "ip": "1000_kun_hardcore.aternos.me:44537",
+    "port": 44537,
     "version": "",
     "try-creative": false
   },
