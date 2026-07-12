@@ -6,7 +6,7 @@
     "type": "offline"
   },
   "server": {
-    "ip": "1000_kun_hardcore.aternos.me",
+    "ip": "1000_kun_hardcore.aternos.me:44537",
     "port": 44537,
     "version": "",
     "try-creative": false
